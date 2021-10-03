@@ -1,0 +1,6 @@
+com\spboot\tugas3sc3\Tugas3sc3Application.class
+com\spboot\tugas3sc3\repositories\TodoRepository.class
+com\spboot\tugas3sc3\models\Todo.class
+com\spboot\tugas3sc3\services\TodoService.class
+com\spboot\tugas3sc3\controllers\MainController.class
+com\spboot\tugas3sc3\interfaces\TodoInterface.class
